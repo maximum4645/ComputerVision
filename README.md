@@ -1,2 +1,2 @@
-# ComputerVision
+# Computer Vision
 Learn CV AI
